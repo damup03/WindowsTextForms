@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // Общие сведения об этой сборке предоставляются следующим набором
 // набора атрибутов. Измените значения этих атрибутов для изменения сведений,
 // связанных со сборкой.
-[assembly: AssemblyTitle("NOTEBOOK")]
+[assembly: AssemblyTitle("WFAPr")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("NOTEBOOK")]
+[assembly: AssemblyProduct("WFAPr")]
 [assembly: AssemblyCopyright("Copyright ©  2023")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // Следующий GUID служит для идентификации библиотеки типов, если этот проект будет видимым для COM
-[assembly: Guid("23d0ca57-d85a-4d37-8476-1e399140c0e6")]
+[assembly: Guid("93e33de4-5a29-4b79-949c-7ef3842658a8")]
 
 // Сведения о версии сборки состоят из указанных ниже четырех значений:
 //
